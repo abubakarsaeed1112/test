@@ -16,3 +16,4 @@ Set user dashboard
 Describe API plan
 Add icons in the dashboard
 Set profile page
+Add basic testing plan
