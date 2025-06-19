@@ -1,12 +1,13 @@
-Step:1 Project initializeed
+Step 1: Project initializeed
 Step 2: Added featre A
 step 3: Setup basic file structure
 step 3: Add basic project requiremt
 step 4: Add initial project timeline
-Add logo in nevigation bar
-Add search icon in nevigation Bar
-Add responsive layout
-Add Colour plate in main page
-Change and modified design of main page
-Add login feature
-Add Sign in button
+Step 5: Add logo in nevigation bar
+Step 6: Add search icon in nevigation Bar
+Step 7: Add responsive layout
+Step 8: Add Colour plate in main page
+Step 9: Change and modified design of main page
+Step 10: Add login feature
+Step 11: Add Sign in button
+Attach to the firebase
