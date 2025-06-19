@@ -13,3 +13,4 @@ Step 11: Add Sign in button
 Attach to the firebase
 resolve the error in the firebase integration
 Set user dashboard
+Describe API plan
