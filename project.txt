@@ -11,3 +11,4 @@ Step 9: Change and modified design of main page
 Step 10: Add login feature
 Step 11: Add Sign in button
 Attach to the firebase
+resolve the error in the firebase integration
