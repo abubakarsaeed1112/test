@@ -2,7 +2,7 @@ Step 1: Project initializeed
 Step 2: Added featre A
 step 3: Setup basic file structure
 step 3: Add basic project requiremt
-step 4: Add initial project timeline
+step 4: Add initial project timelin
 Step 5: Add logo in nevigation bar
 Step 6: Add search icon in nevigation Bar
 Step 7: Add responsive layout
