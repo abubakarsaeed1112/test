@@ -4,3 +4,4 @@ step 3: Setup basic file structure
 step 3: Add basic project requiremt
 step 4: Add initial project timeline
 Add logo in nevigation bar
+Add search icon in nevigation Bar
