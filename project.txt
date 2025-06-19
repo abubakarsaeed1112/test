@@ -15,3 +15,4 @@ resolve the error in the firebase integration
 Set user dashboard
 Describe API plan
 Add icons in the dashboard
+Set profile page
