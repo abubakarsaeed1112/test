@@ -18,3 +18,4 @@ Add icons in the dashboard
 Set profile page
 Add basic testing plan
 Resolve the main errors in the UI
+REsolve database integration issue
